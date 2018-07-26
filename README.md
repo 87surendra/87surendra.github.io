@@ -2,7 +2,7 @@ Welcome on my page.
 
 Hello, I am Surendra. 
 
-I am Softweare Developer with interest in Machine learning in AI. I write this page for my own refference. 
+I am Software Developer with interest in Machine learning and AI. I write this page for my own refference. 
 
 <b>Interested Topics.</b>
 
