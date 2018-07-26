@@ -1,3 +1,2 @@
-# 87surendra.github.io
+Surendra Singh Blog 
 
-Github page
