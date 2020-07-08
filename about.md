@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: About Me
+description: Surendra Singh information
 ---
 
-## Welcome to another page
+## Welcome to my information page. 
 
 _yay_
 
