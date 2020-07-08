@@ -1,3 +1,17 @@
+---
+layout: default
+title: Resume
+description: Surendra Singh Resume
+---
+
+## Resume. 
+
+_yay_
+
+[back](./)
+
+
+
 Surendra Singh
 er.surendra87@gmail.com
 Mobile: +91 7024837045
