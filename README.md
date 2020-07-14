@@ -1,4 +1,4 @@
-**Summary of Technical Skills**: 
+**Summary of Some Skills**: 
 
 # Article 
 
