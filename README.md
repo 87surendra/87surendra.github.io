@@ -17,7 +17,7 @@
 # Interesting Machine Learning Projects
 
 ## Image classification
-[Git](https://github.com/87surendra/Random-Forest-Image-Classification-using-Python)
+[Code](https://github.com/87surendra/Random-Forest-Image-Classification-using-Python)
 
 ## Logistic Regression for Titanic Dataset 
-[Git](https://github.com/87surendra/Python_DS_Lect/blob/master/Logistic-Regression/LR.ipynb)
+[Code](https://github.com/87surendra/Python_DS_Lect/blob/master/Logistic-Regression/LR.ipynb)
