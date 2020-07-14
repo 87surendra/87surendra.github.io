@@ -44,33 +44,44 @@ Models: Linear Regression, Logistic Regression, Random Forest, Decision Tree, KN
 
 ***Team Lead, Reliance (June 2019)*** 
 
- Developed recommended system for E-learning platform using user transaction. The Model effectively suggest the courses.
+Developed recommended system for E-learning platform using user transaction. The Model effectively suggest the courses.
 
- Developing Application in Django and deploy by Docker
+Developing Application in Django and deploy by Docker
 
- Develop Video Stream Application.
+Develop Video Stream Application.
 
- Video Analysis, Converting Video to text and text Analysis.
+Video Analysis, Converting Video to text and text Analysis.
 
- Prepare data and information for user analysis.
-Module Lead, Mindtree, Bangalore (February 2017- June 2019)
- Developed predictive models from raw data for various customers.
- Prepare data and information for making regular report data analysis.
- Worked on many statistical modelling approaches.
- Perform data analysis for complex data files.
- Perform data manipulation.
- Establish operation strategy in a team for improving sales.
- Perform quantitative analysis of product sales trends to recommend pricing decisions.
-IT Consultant, ITC Infotech, Pune (March 2016 – February 2017)
- Prepare data and information for making regular report data analysis.
- Develop image classification model using OpenCV.
-Developer (Contract), Premier Media, London (April 2015 to August 2015)
- Working as a Python/Django developer
- Web Scrapping
- Collecting data from various sources for marketing strategy.
-Developer (Contract), Explore Group, London (May 2014 to February 2015)
+Prepare data and information for user analysis.
+
+***Module Lead, Mindtree, Bangalore (February 2017- June 2019)*** 
+
+Developed predictive models from raw data for various customers.
+
+Prepare data and information for making regular report data analysis.
+
+Worked on many statistical modelling approaches.
+
+Perform data analysis for complex data files.
+Perform data manipulation.
+
+Establish operation strategy in a team for improving sales.
+
+Perform quantitative analysis of product sales trends to recommend pricing decisions.
+
+***IT Consultant, ITC Infotech, Pune (March 2016 – February 2017)***
+
+Prepare data and information for making regular report data analysis.
+Develop image classification model using OpenCV.
+
+***Developer (Contract), Premier Media, London (April 2015 to August 2015)***
+
+Working as a Python/Django developer
+Web Scrapping
+Collecting data from various sources for marketing strategy.
+
+***Developer (Contract), Explore Group, London (May 2014 to February 2015)***
  Working as a Web developer
 Web Developer, Williams Lea, Norwich (UK) (September 2012 to February 2014)
  Working as a Web/Application developer
-Personal Details:
-DOB: 05/05/1987
+
