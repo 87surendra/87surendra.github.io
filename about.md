@@ -1,11 +1,10 @@
----
-layout: default
-title: About Me
-description: Surendra Singh information
----
+# Surendra
+# Singh
 
-## Welcome to my information page. 
+# I am Surendra Singh with many years of experiance in application development/Data Science. 
 
-_yay_
+## Contact Information 
 
-[back](./)
+### Lindin: (https://www.linkedin.com/in/ssingh05/)
+### Email: (er.surendra87@gmail.com)
+### Mobile: 0091-7024837045
