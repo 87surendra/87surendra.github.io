@@ -2,10 +2,8 @@
 
 ## Contact Information 
 
-### Linkdin: 
-(https://www.linkedin.com/in/ssingh05/)
+### [Linkdin]: (https://www.linkedin.com/in/ssingh05/)
 
-### Email:  
-(er.surendra87@gmail.com)
+### [Email]: (er.surendra87@gmail.com)
 
-### Mobile: 0091-7024837045
+### [Mobile]: 0091-7024837045
