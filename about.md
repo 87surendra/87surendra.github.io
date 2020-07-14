@@ -1,4 +1,7 @@
-!# Hey It's Me
+---
+layout: default
+title: Hey It's Me
+---
 
 # I am Surendra Singh with many years of experiance in application development/Data Science. 
 
