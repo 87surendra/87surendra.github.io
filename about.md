@@ -1,6 +1,6 @@
 # I am Surendra Singh with many years of experiance in application development/Data Science. 
 
-![Unsupervised Learning](surendra1.JPG)
+![surendra](surendra2.JPG)
 
 ## Contact Information 
 
