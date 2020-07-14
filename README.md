@@ -1,7 +1,4 @@
----
-layout: default
-title: Portfolio of Surendra Singh
----
+**Summary of Some Skills**: 
 
 # Article 
 
