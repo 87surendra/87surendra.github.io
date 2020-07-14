@@ -1,5 +1,3 @@
-# Article
-
 ## Docker installation on Centos Machine
 [Docker Installation](https://datatoshare.com/django-with-docker/)
 
